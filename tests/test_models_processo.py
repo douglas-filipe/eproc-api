@@ -118,8 +118,8 @@ class TestProcessoModel:
         session.refresh(processo)
         
         assert processo.ultimo_evento == "Evento Atualizado"
-        assert processo.criado_em == data_criacao  # Não muda
-        assert processo.atualizado_em > data_criacao  # Atualiza automaticamente
+        assert processo.criado_em == data_criacao
+        assert processo.atualizado_em > data_criacao
     
     def test_deletar_processo(self, session, parte_factory, processo_factory):
         parte = parte_factory()

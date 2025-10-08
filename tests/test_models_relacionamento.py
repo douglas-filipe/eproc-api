@@ -36,7 +36,7 @@ class TestRelacionamentosModels:
         processos_orfaos = session.query(Processo).filter(
             Processo.parte_id == parte_id
         ).all()
-        assert len(processos_orfaos) == 0  # Foram deletados
+        assert len(processos_orfaos) == 0
     
     def test_multiple_partes_com_processos(self, session, parte_factory, processo_factory):
         parte1 = parte_factory(nome="PARTE 1")
