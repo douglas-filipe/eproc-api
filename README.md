@@ -31,8 +31,8 @@ A aplicação expõe uma **API REST** construída com **FastAPI**, que consulta 
 ### 1️⃣ Clonar o projeto
 
 ```bash
-git clone <repositorio>
-cd captura_eproc
+git clone https://github.com/douglas-filipe/eproc-api
+cd eproc-api
 ```
 
 ### 2️⃣ Criar e ativar o ambiente virtual
