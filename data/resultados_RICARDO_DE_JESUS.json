@@ -1,0 +1,70 @@
+[
+    {
+        "nome_parte": "HELDER RICARDO DE JESUS NASCIMENTO",
+        "cpf_cnpj": "100.**********",
+        "link": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_consulta_nome_parte_publica&acao_origem=&acao_retorno=processo_consulta_publica&id_pessoa=11744055603505111117567056790",
+        "processos": [
+            {
+                "numero_processo": "1002416-38.2025.8.13.0024",
+                "autor": "HELDER RICARDO DE JESUS NASCIMENTO\ne outros",
+                "reu": "",
+                "assunto": "",
+                "ultimo_evento": "",
+                "link_processo": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_nome_parte_publica&acao_retorno=processo_consulta_nome_parte_publica&num_processo=10024163820258130024&num_chave=&hash=fd6d27bb239413d9c60df3ac60be17d6&num_chave_documento="
+            },
+            {
+                "numero_processo": "1002419-90.2025.8.13.0024",
+                "autor": "HELDER RICARDO DE JESUS NASCIMENTO\ne outros",
+                "reu": "MUNICIPIO DE BELO HORIZONTE",
+                "assunto": "",
+                "ultimo_evento": "",
+                "link_processo": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_nome_parte_publica&acao_retorno=processo_consulta_nome_parte_publica&num_processo=10024199020258130024&num_chave=&hash=31a905051f42123b7f4af85909db848e&num_chave_documento="
+            }
+        ]
+    },
+    {
+        "nome_parte": "LUIZ RICARDO TORRES SILVA DE JESUS",
+        "cpf_cnpj": "015.**********",
+        "link": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_consulta_nome_parte_publica&acao_origem=&acao_retorno=processo_consulta_publica&id_pessoa=11752008113257867781416124661",
+        "processos": [
+            {
+                "numero_processo": "1026739-10.2025.8.13.0024",
+                "autor": "LUIZ RICARDO TORRES SILVA DE JESUS",
+                "reu": "ITAU UNIBANCO HOLDING S.A.",
+                "assunto": "",
+                "ultimo_evento": "",
+                "link_processo": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_nome_parte_publica&acao_retorno=processo_consulta_nome_parte_publica&num_processo=10267391020258130024&num_chave=&hash=cc0fa4e844a82de40d4473ed0bf419cc&num_chave_documento="
+            }
+        ]
+    },
+    {
+        "nome_parte": "RICARDO JESUS BECALLI",
+        "cpf_cnpj": "680.**********",
+        "link": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_consulta_nome_parte_publica&acao_origem=&acao_retorno=processo_consulta_publica&id_pessoa=11757097637529044395256127064",
+        "processos": [
+            {
+                "numero_processo": "1047256-36.2025.8.13.0024",
+                "autor": "MONICA PAULA BECALLI",
+                "reu": "RICARDO JESUS BECALLI\ne outros",
+                "assunto": "",
+                "ultimo_evento": "",
+                "link_processo": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_nome_parte_publica&acao_retorno=processo_consulta_nome_parte_publica&num_processo=10472563620258130024&num_chave=&hash=67b25b53a076cbf75c905be9cefd7b0f&num_chave_documento="
+            }
+        ]
+    },
+    {
+        "nome_parte": "RICARDO URIAS DE JESUS",
+        "cpf_cnpj": "016.**********",
+        "link": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_consulta_nome_parte_publica&acao_origem=&acao_retorno=processo_consulta_publica&id_pessoa=11756732857334787676791366772",
+        "processos": [
+            {
+                "numero_processo": "5023098-58.2016.8.13.0024",
+                "autor": "RICARDO URIAS DE JESUS",
+                "reu": "ESTADO DE MINAS GERAIS",
+                "assunto": "",
+                "ultimo_evento": "",
+                "link_processo": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_seleciona_publica&acao_origem=processo_consulta_nome_parte_publica&acao_retorno=processo_consulta_nome_parte_publica&num_processo=50230985820168130024&num_chave=&hash=0eb33fb003e3027066f3fba820ada7d3&num_chave_documento="
+            }
+        ]
+    }
+]
